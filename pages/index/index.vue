@@ -1,8 +1,20 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
-		<view class="text-area">
+		<view class="title-area">
 			<text class="title">{{title}}</text>
+		</view>
+		<view class="butten-array">
+			<navigator class="button">
+				<button>简介</button>
+			</navigator>
+
+			<navigator class="button">
+				<button>开始</button>
+			</navigator>
+
+			<navigator class="button">
+				<button>关于本程序</button>
+			</navigator>
 		</view>
 	</view>
 </template>
@@ -11,7 +23,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'International\nPhonetic\nAlphabet\n国际音标'
 			}
 		},
 		onLoad() {
@@ -29,24 +41,38 @@
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
+		background-color: #ffffd7;
+		width: 100%;
+		height: 100%;
 	}
 
-	.logo {
-		height: 200rpx;
-		width: 200rpx;
-		margin-top: 200rpx;
-		margin-left: auto;
-		margin-right: auto;
-		margin-bottom: 50rpx;
-	}
-
-	.text-area {
+	.title-area {
 		display: flex;
+		align-items: center;
 		justify-content: center;
+		width: 100%;
+		text-align: center;
+		background-color: #A0522D;
 	}
 
 	.title {
-		font-size: 36rpx;
-		color: #8f8f94;
+		font-size: xx-large;
+		color: #e4e4e4;
+	}
+	
+	.butten-array {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		background-color: #ffffd7;
+		width: 100%;
+		height: 100%;
+	}
+	
+	.button {
+		margin-top: 5%;
+		margin-bottom: 5%;
+		width: 100%;
 	}
 </style>
