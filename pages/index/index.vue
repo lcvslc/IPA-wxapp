@@ -1,78 +1,72 @@
 <template>
-	<view class="content">
-		<view class="title-area">
-			<text class="title">{{title}}</text>
-		</view>
-		<view class="butten-array">
-			<navigator class="button">
-				<button>简介</button>
-			</navigator>
-
-			<navigator class="button">
-				<button>开始</button>
-			</navigator>
-
-			<navigator class="button">
-				<button>关于本程序</button>
-			</navigator>
-		</view>
-	</view>
+    <view class="content">
+        <view class="top">
+            <text style="">{{title}}</text>
+        </view>
+        <view class="top-shadow"></view>
+        <view class="title-area">
+            <text class="title">International</text>
+            <text class="title">Phonetic</text>
+            <text class="title">Alphabet</text>
+        </view>
+        <view class="top-shadow"></view>
+        <view class="butten-array">
+            <button class="button" hover-class="none" v-on:click="navigate2intro">Intro</button>
+            <button class="button" hover-class="none" v-on:click="navigate2start">Start</button>
+            <button class="button" hover-class="none" v-on:click="navigate2about">About</button>
+        </view>
+    </view>
 </template>
 
 <script>
-	export default {
-		data() {
-			return {
-				title: 'International\nPhonetic\nAlphabet\n国际音标'
-			}
-		},
-		onLoad() {
+    export default {
+        data() {
+            return {
+                title: "HOME"
+            }
+        },
+        onLoad() {
 
-		},
-		methods: {
+        },
+        methods: {
+            navigate2intro: function() {
+                uni.navigateTo({
+                    url: "../intro/intro"
+                })
+            },
 
-		}
-	}
+            navigate2start: function() {
+                uni.navigateTo({
+                    url: "../start/start"
+                })
+            },
+
+            navigate2about: function() {
+                uni.navigateTo({
+                    url: "../about/about"
+                })
+            }
+        }
+    }
 </script>
 
 <style>
-	.content {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		background-color: #ffffd7;
-		width: 100%;
-		height: 100%;
-	}
+    @import url("~@/static/text.css");
 
-	.title-area {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		text-align: center;
-		background-color: #A0522D;
-	}
+    .butten-array {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #ffffd7;
+        height: 50vh;
+    }
 
-	.title {
-		font-size: xx-large;
-		color: #e4e4e4;
-	}
-	
-	.butten-array {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		background-color: #ffffd7;
-		width: 100%;
-		height: 100%;
-	}
-	
-	.button {
-		margin-top: 5%;
-		margin-bottom: 5%;
-		width: 100%;
-	}
+    .button {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        width: 50vw;
+        border: #000000 5rpx solid;
+        box-shadow: 20rpx 10rpx #333333;
+    }
 </style>
