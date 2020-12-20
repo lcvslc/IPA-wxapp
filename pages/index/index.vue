@@ -11,7 +11,7 @@
         </view>
         <view class="top-shadow"></view>
         <view class="butten-array">
-            <button class="button" hover-class="none" v-on:click="navigate2intro">Intro</button>
+            <button class="button" hover-class="none" v-on:click="navigate2intro">Introduction</button>
             <button class="button" hover-class="none" v-on:click="navigate2start">Start</button>
             <button class="button" hover-class="none" v-on:click="navigate2about">About</button>
         </view>
@@ -52,21 +52,5 @@
 
 <style>
     @import url("~@/static/text.css");
-
-    .butten-array {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        background-color: #ffffd7;
-        height: 50vh;
-    }
-
-    .button {
-        margin-top: 5%;
-        margin-bottom: 5%;
-        width: 50vw;
-        border: #000000 5rpx solid;
-        box-shadow: 20rpx 10rpx #333333;
-    }
+    @import url("~@/static/button.css");
 </style>
