@@ -274,5 +274,5 @@
 </script>
 
 <style>
-    @import url("~@/static/text.css");
+    @import url("@/static/text.css");
 </style>

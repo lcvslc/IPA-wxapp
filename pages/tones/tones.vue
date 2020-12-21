@@ -8,7 +8,7 @@
             <text class="title-b">Tones and Accents</text>
         </view>
         <view class="top-shadow"></view>
-            <image src="~@/static/ipa-tonesandaccents.gif" mode="aspectFit" class="image"></image>
+            <image src="/static/images/ipa-tonesandaccents.gif" mode="aspectFit" class="image"></image>
         <view class="normal-text-area">
             
         </view>
@@ -28,6 +28,6 @@
 </script>
 
 <style>
-    @import url("~@/static/text.css");
-    @import url("~@/static/image.css");
+    @import url("@/static/text.css");
+    @import url("@/static/image.css");
 </style>
