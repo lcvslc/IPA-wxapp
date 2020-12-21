@@ -1,14 +1,14 @@
 <template>
     <view class="content">
         <view class="top">
-            <text>{{title}}</text>
+            <text>TONES</text>
         </view>
         <view class="top-shadow"></view>
         <view class="title-area-b">
             <text class="title-b">Tones and Accents</text>
         </view>
         <view class="top-shadow"></view>
-        <image src="~@/static/ipa-tonesandaccents.gif" mode="aspectFit" class="image"></image>
+            <image src="~@/static/ipa-tonesandaccents.gif" mode="aspectFit" class="image"></image>
         <view class="normal-text-area">
             
         </view>
@@ -19,7 +19,6 @@
     export default {
         data() {
             return {
-                title: "TONES"
             }
         },
         methods: {

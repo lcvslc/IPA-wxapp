@@ -1,6 +1,6 @@
 <template>
     <view class="content">
-        <view class="top">{{title}}</view>
+        <view class="top">ABOUT</view>
         <view class="top-shadow"></view>
         <view class="title-area-b">
             <text class="title-b">About us</text>
@@ -18,7 +18,6 @@
     export default {
         data() {
             return {
-                title: "ABOUT"
             }
         },
         methods: {

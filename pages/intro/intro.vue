@@ -2,7 +2,7 @@
     <view>
         <view class="content">
             <view class="top">
-                <text>{{title}}</text>
+                <text>INTRODUCTION</text>
             </view>
             <view class="top-shadow"></view>
             <view class="title-area-b">
@@ -25,7 +25,6 @@
     export default {
         data() {
             return {
-                title: "INTRODUCTION"
             }
         },
         methods: {

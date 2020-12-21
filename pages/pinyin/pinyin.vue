@@ -1,13 +1,105 @@
 <template>
     <view class="content">
-        <view class="category">
+        <view class="top">
+            <text>PINYIN</text>
+        </view>
+        <view class="top-shadow"></view>
+        <view class="title-area-b">
+            <text class="title-b">Chinese Pinyin with IPA</text>
+        </view>
+        <view class="top-shadow"></view>
+        <view class="category" style="border: #000000 1rpx solid;">
             <text class="category-title">Initials</text>
         </view>
         <view class="table-text-area">
             <text class="table-text" style="background-color: #8B4513; color: #E4E4E4;">Pinyin</text>
             <text class="table-text" style="background-color: #8B4513; color: #E4E4E4;">IPA</text>
         </view>
-        <view class="category">
+        <view class="table-text-area">
+            <text class="table-text">b</text>
+            <text class="table-text">[p]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">p</text>
+            <text class="table-text">[pʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">m</text>
+            <text class="table-text">[m]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">f</text>
+            <text class="table-text">[f]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">d</text>
+            <text class="table-text">[t]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">t</text>
+            <text class="table-text">[tʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">n</text>
+            <text class="table-text">[n]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">l</text>
+            <text class="table-text">[l]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">g</text>
+            <text class="table-text">[k]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">k</text>
+            <text class="table-text">[kʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">h</text>
+            <text class="table-text">[x]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">j</text>
+            <text class="table-text">[tɕ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">q</text>
+            <text class="table-text">[tɕʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">ɕ</text>
+            <text class="table-text">[ɕ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">z</text>
+            <text class="table-text">[ts]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">c</text>
+            <text class="table-text">[tsʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">s</text>
+            <text class="table-text">[s]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">zh</text>
+            <text class="table-text">[tʂ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">ch</text>
+            <text class="table-text">[tʂʰ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">sh</text>
+            <text class="table-text">[ʂ]</text>
+        </view>
+        <view class="table-text-area">
+            <text class="table-text">r</text>
+            <text class="table-text">[ʐ]</text>
+        </view>
+        <view class="category" style="border: #000000 1rpx solid;">
             <text class="category-title">Finals</text>
         </view>
         <view class="table-text-area">
@@ -173,7 +265,6 @@
     export default {
         data() {
             return {
-                
             }
         },
         methods: {

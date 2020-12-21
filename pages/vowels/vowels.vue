@@ -1,7 +1,7 @@
 <template>
     <view class="content">
         <view class="top">
-            <text>{{title}}</text>
+            <text>VOWELS</text>
         </view>
         <view class="top-shadow"></view>
         <view class="title-area-b">
@@ -19,7 +19,6 @@
     export default {
         data() {
             return {
-                title: "VOWELS"
             }
         },
         methods: {

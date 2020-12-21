@@ -1,7 +1,7 @@
 <template>
     <view class="content">
         <view class="top">
-            <text>{{title}}</text>
+            <text>START</text>
         </view>
         <view class="top-shadow"></view>
         <view class="title-area-b">
@@ -22,7 +22,6 @@
     export default {
         data() {
             return {
-                title: "START"
             }
         },
         methods: {
@@ -33,7 +32,7 @@
             },
             navigate2sound: function () {
                 uni.navigateTo({
-                    url: "../sound/sound"
+                    url: "../sound/sound?id=1&name=test"
                 })
             },
             navigate2tones: function () {

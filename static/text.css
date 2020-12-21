@@ -2,6 +2,7 @@
     background-color: #ffffd7;
     width: 100vw;
     height: 100vh;
+    font-family: serif;
 }
 
 .top {
@@ -14,6 +15,11 @@
     background-color: #CD853F;
     font-size: large;
     font-family: sans-serif;
+}
+
+.fill-bottom {
+    height: 6vh;
+    background-color: #FFFFD7;
 }
 
 .top-shadow {
@@ -54,7 +60,7 @@
     justify-content: center;
     text-align: center;
     background-color: #8B4513;
-    height: 25vh;
+    height: 20vh;
 }
 
 .normal-text {
@@ -80,7 +86,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: #CD853F;
+    background-color: #DAA520;
 }
 
 .category-title {
@@ -100,8 +106,10 @@
 
 .table-text {
     font-size: large;
+    font-weight: bold;
     color: #3c3c3c;
-    width: 340vw;
+    height: 7vh;
+    width: 50vw;
     padding-left: 2.5%;
     padding-right: 2.5%;
     padding-top: 2.5%;
