@@ -8,9 +8,13 @@
         <view class="top-shadow"></view>
         <view class="normal-text-area">
             <text class="normal-text">
-                This work is to finish schola assignment ab initio.
-                
-                Yours, A team love touching fish
+                This work is to finish schola assignment de facto.
+            </text>
+            <text class="normal-text">
+                Yours, A team love touching fish.
+            </text>
+            <text class="normal-text">
+                Thanks Internatioanl Phonetic Alphabet for this system and Wikipedia for more detail infomation.
             </text>
         </view>
     </view>
@@ -19,15 +23,14 @@
 <script>
     export default {
         data() {
-            return {
-            }
+            return {}
         },
         methods: {
-            
+
         }
     }
 </script>
 
 <style>
-@import url("@/static/text.css");
+    @import url("@/static/text.css");
 </style>

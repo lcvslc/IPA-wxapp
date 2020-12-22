@@ -211,6 +211,115 @@
 				<button class="button-b" hover-class="none" style="width: 55vw;">Velar</button>
 				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('lateral-approximant-velar-1')">ʟ</button>
 			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Close</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Front</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-front-1')">i</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-front-2')">y</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Central</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-central-1')">ɨ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-central-2')">ʉ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Back</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-back-1')">ɯ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-back-2')">u</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Near Close</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Front</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('near-close-near-front-1')">ɪ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('near-close-near-front-2')">ʏ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Back</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('near-close-near-back-1')">ʊ</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Close Mid</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Front</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('close-mid-front-1')">e</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Front</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('close-mid-near-front-1')">ø</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Central</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('close-mid-central-1')">ɘ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Back</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('close-mid-near-back-1')">ɵ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Back</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-mid-back-1')">ɤ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('close-mid-back-2')">o</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Mid</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Central</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('mid-central-1')">ə</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Open Mid</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Front</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('open-mid-near-front-1')">ɛ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Central</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-mid-central-1')">œ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-mid-central-2')">ɜ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Back</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('open-mid-near-back-1')">ɞ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Back</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-mid-back-1')">ʌ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-mid-back-2')">ɔ</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Near Open</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Front</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('near-open-near-front-1')">æ</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Back</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('near-open-near-back-1')">ɐ</button>
+			</view>
+			<view class="butten-table-category">
+				<view class="category-title">Open</view>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Central</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('open-central-1')">a</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Near Back</button>
+				<button class="button-b" hover-class="none" style="width: 30vw;" v-on:click="navigate2more('open-near-back-1')">ä</button>
+			</view>
+			<view class="butten-array-b">
+				<button class="button-b" hover-class="none" style="width: 55vw;">Back</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-back-1')">ɑ</button>
+				<button class="button-b" hover-class="none" style="width: 15vw;" v-on:click="navigate2more('open-back-2')">ɒ</button>
+			</view>
         </view>
         <view class="fill-bottom"></view>
     </view>
