@@ -31,7 +31,7 @@
 
             if (obj.title == "plosive-bilabial-1") {
                 this.title = "p";
-                this.audioURL = "/static/audio/Voiceless_bilabial_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_bilabial_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -46,7 +46,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-bilabial-2") {
                 this.title = "b";
-                this.audioURL = "/static/audio/Voiced_bilabial_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_bilabial_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -61,7 +61,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-alveolar-1") {
                 this.title = "t";
-                this.audioURL = "/static/audio/Voiceless_alveolar_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_alveolar_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -82,7 +82,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-alveolar-2") {
                 this.title = "d";
-                this.audioURL = "/static/audio/Voiced_alveolar_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_alveolar_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -101,7 +101,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-retroflex-1") {
                 this.title = "ʈ";
-                this.audioURL = "/static/audio/Voiceless_retroflex_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_retroflex_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -117,7 +117,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-retroflex-2") {
                 this.title = "ɖ";
-                this.audioURL = "/static/audio/Voiced_retroflex_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_retroflex_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -131,7 +131,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-palatal-1") {
                 this.title = "c";
-                this.audioURL = "/static/audio/Voiceless_palatal_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_palatal_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -147,7 +147,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-palatal-2") {
                 this.title = "ɟ";
-                this.audioURL = "/static/audio/Voiced_palatal_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_palatal_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -163,7 +163,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-velar-1") {
                 this.title = "k";
-                this.audioURL = "/static/audio/Voiceless_velar_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_velar_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -179,7 +179,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-velar-2") {
                 this.title = "g";
-                this.audioURL = "/static/audio/Voiced_velar_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_velar_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -195,7 +195,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-uvular-1") {
                 this.title = "q";
-                this.audioURL = "/static/audio/Voiceless_uvular_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_uvular_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -211,7 +211,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-uvular-2") {
                 this.title = "ɢ";
-                this.audioURL = "/static/audio/Voiced_uvular_plosive.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_uvular_plosive.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -227,7 +227,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "plosive-glottal-1") {
                 this.title = "ʔ";
-                this.audioURL = "/static/audio/Glottal_stop.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Glottal_stop.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Since the consonant is also oral, with no nasal outlet, the airflow is blocked entirely, and the consonant is a plosive." +
@@ -242,7 +242,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-bilabial-1") {
                 this.title = "m";
-                this.audioURL = "/static/audio/Bilabial_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Bilabial_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -257,7 +257,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-labiodental-1") {
                 this.title = "ɱ";
-                this.audioURL = "/static/audio/Labiodental_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Labiodental_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -273,7 +273,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-alveolar-1") {
                 this.title = "n";
-                this.audioURL = "/static/audio//Alveolar_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3//Alveolar_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -296,7 +296,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-retroflex-1") {
                 this.title = "ɳ";
-                this.audioURL = "/static/audio/Retroflex_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Retroflex_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -311,7 +311,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-palatal1-1") {
                 this.title = "ɲ";
-                this.audioURL = "/static/audio/Palatal_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Palatal_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -327,7 +327,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-velar-1") {
                 this.title = "ŋ";
-                this.audioURL = "/static/audio/Velar_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Velar_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -343,7 +343,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "nasal-uvular-1") {
                 this.title = "ɴ";
-                this.audioURL = "/static/audio/Uvular_nasal.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Uvular_nasal.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is occlusive, which means it is produced by obstructing airflow in the vocal tract. Because the consonant is also nasal, the blocked airflow is redirected through the nose." +
@@ -359,7 +359,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "trill-bilabial-1") {
                 this.title = "ʙ";
-                this.audioURL = "/static/audio/Bilabial_trill.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Bilabial_trill.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is trill, which means it is produced by directing air over an articulator so that it vibrates. Inmost instances, it is only found as the trilled release of a prenasalized stop." +
@@ -374,7 +374,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "trill-alveolar-1") {
                 this.title = "r";
-                this.audioURL = "/static/audio/Alveolar_trill.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Alveolar_trill.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is trill, which means it is produced by directing air over an articulator so that it vibrates." +
@@ -393,7 +393,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "trill-uvular-1") {
                 this.title = "ʀ";
-                this.audioURL = "/static/audio/Uvular_trill.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Uvular_trill.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is trill, which means it is produced by directing air over an articulator so that it vibrates. Unlike in tongue-tip trills, it is the uvula, not the tongue, that vibrates." +
@@ -409,7 +409,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "tap-or-flap-alveolar-1") {
                 this.title = "ɾ";
-                this.audioURL = "/static/audio/Alveolar_tap.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Alveolar_tap.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is tap or flap, which means it is produced with a single contraction of the muscles so that the tongue makes very brief contact." +
@@ -425,7 +425,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "tap-or-flap-retroflex-1") {
                 this.title = "ɽ";
-                this.audioURL = "/static/audio/Retroflex_flap.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Retroflex_flap.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is tap or flap, which means it is produced with a single contraction of the muscles so that one articulator (usually the tongue) is thrown against another." +
@@ -439,7 +439,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-bilabial-1") {
                 this.title = "ɸ";
-                this.audioURL = "/static/audio/Voiceless_bilabial_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_bilabial_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -454,7 +454,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-bilabial-2") {
                 this.title = "β";
-                this.audioURL = "/static/audio/Voiced_bilabial_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_bilabial_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -469,7 +469,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-labiodental-1") {
                 this.title = "f";
-                this.audioURL = "/static/audio/Voiceless_labiodental_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_labiodental_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -485,7 +485,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-labiodental-2") {
                 this.title = "v";
-                this.audioURL = "/static/audio/Voiced_labiodental_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_labiodental_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -501,7 +501,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-dental-1") {
                 this.title = "θ";
-                this.audioURL = "/static/audio/Voiceless_dental_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_dental_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. It does not have the grooved tongue and directed airflow, or the high frequencies, of a sibilant." +
@@ -517,7 +517,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-dental-2") {
                 this.title = "ð";
-                this.audioURL = "/static/audio/Voiced_dental_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_dental_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. It does not have the grooved tongue and directed airflow, or the high frequencies, of a sibilant." +
@@ -533,7 +533,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-alveolar-1") {
                 this.title = "s";
-                this.audioURL = "/static/audio/Voiceless_alveolar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_alveolar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -553,7 +553,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-alveolar-2") {
                 this.title = "z";
-                this.audioURL = "/static/audio/Voiced_alveolar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_alveolar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -572,7 +572,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-postalveolar-1") {
                 this.title = "ʃ";
-                this.audioURL = "/static/audio/Voiceless_postalveolar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_postalveolar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -588,7 +588,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-postalveolar-2") {
                 this.title = "ʒ";
-                this.audioURL = "/static/audio/Voiced_postalveolar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_postalveolar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -604,7 +604,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-retroflex-1") {
                 this.title = "ʂ";
-                this.audioURL = "/static/audio/Voiceless_retroflex_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_retroflex_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -619,7 +619,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-retroflex-2") {
                 this.title = "ʐ";
-                this.audioURL = "/static/audio/Voiced_retroflex_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_retroflex_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence." +
@@ -633,7 +633,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-palatal-1") {
                 this.title = "ç";
-                this.audioURL = "/static/audio/Voiceless_palatal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_palatal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -649,7 +649,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-palatal-2") {
                 this.title = "ʝ";
-                this.audioURL = "/static/audio/Voiced_palatal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_palatal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -665,7 +665,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-velar-1") {
                 this.title = "x";
-                this.audioURL = "/static/audio/Voiceless_velar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_velar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -681,7 +681,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-velar-2") {
                 this.title = "ɣ";
-                this.audioURL = "/static/audio/Voiced_velar_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_velar_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -697,7 +697,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-uvular-1") {
                 this.title = "χ";
-                this.audioURL = "/static/audio/Voiceless_uvular_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_uvular_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -713,7 +713,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-uvular-2") {
                 this.title = "ʁ";
-                this.audioURL = "/static/audio/Voiced_uvular_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_uvular_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. Inmany languages it is closer to an approximant, however, and no language distinguishes the two at the uvular articulation." +
@@ -729,7 +729,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-pharyngeal-1") {
                 this.title = "ħ";
-                this.audioURL = "/static/audio/Voiceless_pharyngeal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_pharyngeal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -744,7 +744,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-pharyngeal-2") {
                 this.title = "ʕ";
-                this.audioURL = "/static/audio/Voiced_pharyngeal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_pharyngeal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation varies between approximant and fricative, which means it is produced by narrowing the vocal tract at the place of articulation, but generally not enough to produce much turbulence in the airstream. Languages do not distinguish voiced fricatives from approximants produced in the throat." +
@@ -758,7 +758,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-glottal-1") {
                 this.title = "h";
-                this.audioURL = "/static/audio/Voiceless_glottal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_glottal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "In some languages, it has the constricted manner of articulation of a fricative. However, in many if not most, It is a transitional state of the glottis, with no manner of articulation other than Its phonation type. Because there is no other constriction to produce friction in the vocal tract in the languages they are familiar with, many phoneticians[who?] no longer consider [h] to be a fricative. However, the term \"fricative\" is generally retained for historical reasons." +
@@ -774,7 +774,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "fricative-glottal-2") {
                 this.title = "ɦ";
-                this.audioURL = "/static/audio/Voiced_glottal_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_glottal_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its phonation is breathy voiced, or murmured, which means the vocal cords are loosely vibrating, with more air escaping than in a modally voiced sound. It is sometimes referred to as a \"voiced h\". Strictly speaking this is incorrect, as there is no voicing." +
@@ -790,7 +790,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-fricative-alveolar-1") {
                 this.title = "ɬ";
-                this.audioURL = "/static/audio/Voiceless_alveolar_lateral_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_alveolar_lateral_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -806,7 +806,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-fricative-alveolar-2") {
                 this.title = "ɮ";
-                this.audioURL = "/static/audio/Voiceless_alveolar_lateral_fricative.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiceless_alveolar_lateral_fricative.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence." +
@@ -822,7 +822,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "approximant-labiodental-1") {
                 this.title = "ʋ";
-                this.audioURL = "/static/audio/Labiodental_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Labiodental_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -838,7 +838,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "approximant-alveolar-1") {
                 this.title = "ɹ";
-                this.audioURL = "/static/audio/Alveolar_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Alveolar_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -854,7 +854,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "approximant-retroflex-1") {
                 this.title = "ɻ";
-                this.audioURL = "/static/audio/Retroflex_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Retroflex_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -868,7 +868,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "approximant-palatal-1") {
                 this.title = "j";
-                this.audioURL = "/static/audio/Palatal_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Palatal_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream. The most common type of this approximant is glide or semivowel. The term glide emphasizes the characteristic of movement (or 'glide') of [j] from the [i] vowel position to a following vowel position. The term semivowel emphasizes that, although the sound is vocalic in nature, it is not 'syllabic' (it does not form the nucleus of a syllable).  For a description of the approximant consonant variant used e.g. InSpanish, see above." +
@@ -884,7 +884,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "approximant-velar-1") {
                 this.title = "ɰ";
-                this.audioURL = "/static/audio/Voiced_velar_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Voiced_velar_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream. The most common type of this approximant is glide or semivowel. The term glide emphasizes the characteristic of movement (or 'glide') of [ɰ] from the [ɯ] vowel position to a following vowel position. The term semivowel emphasizes that, although the sound is vocalic in nature, it is not 'syllabic' (it does not form the nucleus of a syllable).  For a description of the approximant consonant variant used e.g. InSpanish, see below." +
@@ -900,7 +900,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-approximant-alveolar-1") {
                 this.title = "l";
-                this.audioURL = "/static/audio/Alveolar_lateral_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Alveolar_lateral_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -923,7 +923,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-approximant-retroflex-1") {
                 this.title = "ɭ";
-                this.audioURL = "/static/audio/Retroflex_lateral_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Retroflex_lateral_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -937,7 +937,7 @@
                 "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-approximant-palatal-1") {
                 this.title = "ʎ";
-                this.audioURL = "/static/audio/Palatal_lateral_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Palatal_lateral_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -953,7 +953,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "lateral-approximant-velar-1") {
                 this.title = "ʟ";
-                this.audioURL = "/static/audio/Velar_lateral_approximant.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Velar_lateral_approximant.mp3";
                 this.feature =
                     "\n\n" +
                     "Its manner of articulation is approximant, which means it is produced by narrowing the vocal tract at the place of articulation, but not enough to produce a turbulent airstream." +
@@ -969,7 +969,7 @@
                     "The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds."
             } else if (obj.title == "close-front-1") {
                 this.title = "i";
-                this.audioURL = "/static/audio/Close_front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -978,7 +978,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-front-2") {
                 this.title = "y";
-                this.audioURL = "/static/audio/Close_front_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_front_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -988,7 +988,7 @@
                     "Its roundedness is compressed, which means that the margins of the lips are tense and drawn together in such a way that the inner surfaces are not exposed."
             } else if (obj.title == "close-central-1") {
                 this.title = "ɨ";
-                this.audioURL = "/static/audio/Close_central_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_central_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -997,7 +997,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-central-2") {
                 this.title = "ʉ";
-                this.audioURL = "/static/audio/Close_central_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_central_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -1007,7 +1007,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed."
             } else if (obj.title == "close-back-1") {
                 this.title = "ɯ";
-                this.audioURL = "/static/audio/Close_back_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_back_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -1016,7 +1016,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-back-2") {
                 this.title = "u";
-                this.audioURL = "/static/audio/Close_back_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close_back_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close, also known as high, which means the tongue is positioned close to the roof of the mouth without creating a constriction that would be classified as a consonant." +
@@ -1026,7 +1026,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed."
             } else if (obj.title == "near-close-near-front-1") {
                 this.title = "ɪ";
-                this.audioURL = "/static/audio/Near-close_near-front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Near-close_near-front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is near-close, also known as near-high, which means the tongue is not quite so constricted as a close vowel (high vowel)." +
@@ -1035,7 +1035,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "near-close-near-front-2") {
                 this.title = "ʏ";
-                this.audioURL = "/static/audio/Near-close_near-front_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Near-close_near-front_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is near-close, also known as near-high, which means the tongue is not quite so constricted as a close vowel (high vowel)." +
@@ -1045,7 +1045,7 @@
                     "Its roundedness is compressed, which means that the margins of the lips are tense and drawn together in such a way that the inner surfaces are not exposed. The prototypical [ʏ] has a weak compressed rounding, more like [œ] than the neighboring cardinal vowels."
             } else if (obj.title == "near-close-near-back-1") {
                 this.title = "ʊ";
-                this.audioURL = "/static/audio/Near-close_near-back_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Near-close_near-back_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is near-close, also known as near-high, which means the tongue is not quite so constricted as a close vowel (high vowel)." +
@@ -1055,7 +1055,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed. The prototypical [ʊ] has a weak protruded rounding, more like [ɔ] than the neighboring cardinal vowels."
             } else if (obj.title == "close-mid-front-1") {
                 this.title = "e";
-                this.audioURL = "/static/audio/Close-mid_front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1064,7 +1064,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-mid-near-front-1") {
                 this.title = "ø";
-                this.audioURL = "/static/audio/Close-mid_front_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_front_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1074,7 +1074,7 @@
                     "Its roundedness is compressed, which means that the margins of the lips are tense and drawn together in such a way that the inner surfaces are not exposed."
             } else if (obj.title == "close-mid-central-1") {
                 this.title = "ɘ";
-                this.audioURL = "/static/audio/Close-mid_central_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_central_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1083,7 +1083,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-mid-near-back-1") {
                 this.title = "ɵ";
-                this.audioURL = "/static/audio/Close-mid_central_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_central_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1093,7 +1093,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed."
             } else if (obj.title == "close-mid-back-1") {
                 this.title = "ɤ";
-                this.audioURL = "/static/audio/Close-mid_back_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_back_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1102,7 +1102,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "close-mid-back-2") {
                 this.title = "o";
-                this.audioURL = "/static/audio/Close-mid_back_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Close-mid_back_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel." +
@@ -1112,7 +1112,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed."
             } else if (obj.title == "mid-central-1") {
                 this.title = "ə";
-                this.audioURL = "/static/audio/Mid-central_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Mid-central_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is mid, which means the tongue is positioned halfway between a close vowel and an open vowel." +
@@ -1121,7 +1121,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-mid-near-front-1") {
                 this.title = "ɛ";
-                this.audioURL = "/static/audio/Open-mid_front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1130,7 +1130,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-mid-central-1") {
                 this.title = "œ";
-                this.audioURL = "/static/audio/Open-mid_front_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_front_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1140,7 +1140,7 @@
                     "Its roundedness is compressed, which means that the margins of the lips are tense and drawn together in such a way that the inner surfaces are not exposed."
             } else if (obj.title == "open-mid-central-2") {
                 this.title = "ɜ";
-                this.audioURL = "/static/audio/Open-mid_central_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_central_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1149,7 +1149,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-mid-near-back-1") {
                 this.title = "ɞ";
-                this.audioURL = "/static/audio/Open-mid_central_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_central_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1158,7 +1158,7 @@
                     "\n\n" + "It is rounded, which means that the lips are rounded rather than spread or relaxed."
             } else if (obj.title == "open-mid-back-1") {
                 this.title = "ʌ";
-                this.audioURL = "/static/audio/Open-mid_back_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_back_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1167,7 +1167,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-mid-back-2") {
                 this.title = "ɔ";
-                this.audioURL = "/static/audio/Open-mid_back_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open-mid_back_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open-mid, also known as low-mid, which means the tongue is positioned halfway between an open vowel (a low vowel) and a mid vowel." +
@@ -1177,7 +1177,7 @@
                     "Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed."
             } else if (obj.title == "near-open-near-front-1") {
                 this.title = "æ";
-                this.audioURL = "/static/audio/Near-open_front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Near-open_front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is near-open, also known as near-low, which means the tongue is positioned similarly to an open vowel, but is slightly more constricted – that is, the tongue is positioned similarly to a low vowel, but slightly higher." +
@@ -1186,7 +1186,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "near-open-near-back-1") {
                 this.title = "ɐ";
-                this.audioURL = "/static/audio/Near-open_central_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Near-open_central_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open, also known as low, which means the tongue is positioned far from the roof of the mouth – that is, low in the mouth." +
@@ -1195,7 +1195,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-central-1") {
                 this.title = "a";
-                this.audioURL = "/static/audio/Open_front_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open_front_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open, also known as low, which means the tongue is positioned far from the roof of the mouth – that is, low in the mouth." +
@@ -1204,7 +1204,7 @@
                     "\n\n" + "It is rounded, which means that the lips are rounded rather than spread or relaxed."
             } else if (obj.title == "open-near-back-1") {
                 this.title = "ä";
-                this.audioURL = "/static/audio/Open_front_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open_front_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open, also known as low, which means the tongue is positioned far from the roof of the mouth – that is, low in the mouth." +
@@ -1213,7 +1213,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-back-1") {
                 this.title = "ɑ";
-                this.audioURL = "/static/audio/Open_back_unrounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open_back_unrounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open, also known as low, which means the tongue is positioned far from the roof of the mouth – that is, low in the mouth." +
@@ -1222,7 +1222,7 @@
                     "\n\n" + "It is unrounded, which means that the lips are not rounded."
             } else if (obj.title == "open-back-2") {
                 this.title = "ɒ";
-                this.audioURL = "/static/audio/Open_back_rounded_vowel.mp3";
+                this.audioURL = "https://www.internationalphoneticalphabet.org/ipa-chart-audio/mp3/Open_back_rounded_vowel.mp3";
                 this.feature =
                     "\n\n" +
                     "Its vowel height is open, also known as low, which means the tongue is positioned far from the roof of the mouth – that is, low in the mouth." +

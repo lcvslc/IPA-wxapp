@@ -1,97 +1,77 @@
 {
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
-		{
-			"path": "pages/index/index",
-			"style": {
-				"navigationBarTitleText": "uni-app"
-			}
-		}
-	    ,{
-            "path" : "pages/intro/intro",
-            "style" :                                                                                    
-            {
+    "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "uni-app"
+            }
+        }, {
+            "path": "pages/intro/intro",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/start/start",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/start/start",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/about/about",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/about/about",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/chart/chart",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/chart/chart",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/sound/sound",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/tones/tones",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/tones/tones",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/vowels/vowels",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/vowels/vowels",
-            "style" :                                                                                    
-            {
+
+        }, {
+            "path": "pages/pinyin/pinyin",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/pinyin/pinyin",
-            "style" :                                                                                    
-            {
+        }, {
+            "path": "pages/detail/detail",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
-        }
-        ,{
-            "path" : "pages/detail/detail",
-            "style" :                                                                                    
-            {
+        }, {
+            "path": "pages/sound/sound",
+            "style": {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
-            
         }
     ],
-	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
-	}
+
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    }
 }
