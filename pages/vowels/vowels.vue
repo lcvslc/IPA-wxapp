@@ -45,6 +45,6 @@
 </script>
 
 <style>
-    @import url("@/static/text.css");
-    @import url("@/static/image.css");
+    @import url("/lib/style/text.css");
+    @import url("/lib/style/image.css");
 </style>

@@ -34,5 +34,5 @@
 </script>
 
 <style>
-    @import url("@/static/text.css");
+    @import url("/lib/style/text.css");
 </style>

@@ -3,66 +3,66 @@
         {
             "path": "pages/index/index",
             "style": {
-                "navigationBarTitleText": "uni-app"
+                "navigationBarTitleText": "IPA国际音标系统"
             }
         }, {
             "path": "pages/intro/intro",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/start/start",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/about/about",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/chart/chart",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/tones/tones",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/vowels/vowels",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
 
         }, {
             "path": "pages/pinyin/pinyin",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
         }, {
             "path": "pages/detail/detail",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
         }, {
             "path": "pages/sound/sound",
             "style": {
-                "navigationBarTitleText": "",
+                "navigationBarTitleText": "IPA国际音标系统",
                 "enablePullDownRefresh": false
             }
         }

@@ -1242,7 +1242,7 @@
 </script>
 
 <style>
-    @import url("@/static/text.css");
+    @import url("/lib/style/text.css");
 
     .title-button-area {
         display: flex;
